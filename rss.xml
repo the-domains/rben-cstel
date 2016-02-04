@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rben Cstel]]></title>
+        <description><![CDATA[Rben Cstel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 19:20:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[King Futbol]]></title>
+            <description><![CDATA[<article><h1>King Futbol</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db6bbc1e28814722d0eeea8fd5c9c9c4b89d1e18.jpg"></article>]]></description>
+            <link>undefinedking-futbol/index.html</link>
+            <guid isPermaLink="false">38d7f6e9-e8a1-47fa-9d8d-bf9a2601a70b</guid>
+            <pubDate>Thu, 04 Feb 2016 19:20:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
