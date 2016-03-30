@@ -1,7 +1,7 @@
 name: Rben Cstel
 favicon: null
-layout_spectrum: 0.88584
-typography_spectrum: 0.16152
+layout_spectrum: 0.0638
+typography_spectrum: 0.22341
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#2a2d3c'
-    - '#49515c'
-    - '#7c8089'
-    - '#d7d2bf'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+    - '#fefefe'
+    - '#17100a'
+    - '#34302b'
+    - '#73706d'
+    - '#bcbab8'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
